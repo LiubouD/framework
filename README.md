@@ -1,4 +1,3 @@
-﻿# framework
 # framework
 
 Is a debuggable BDD Javascript test automation framework. Built on  webdriver.io  and  cucumber-js with integrated Visual, accessibility and API Testing, your test can run locally.
